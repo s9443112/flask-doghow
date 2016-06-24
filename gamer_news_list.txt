@@ -10,102 +10,102 @@
 <td align="center" valign="middle" width="15">
 <span>1</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60091">酸甜苦辣留言板</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60091&amp;snA=41710">【心得】要結婚了卻必須接受多一個30歲的拖油瓶</a></td>
-<td align="right">240</td>
+<td align="right">251</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
 <span>2</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=04373">NBA 系列</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=04373&amp;snA=89974">*** NBA 2016 Pre-Draft ***</a></td>
-<td align="right">109</td>
+<td align="right">110</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
 <span>3</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60084">歡樂惡搞 KUSO</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60084&amp;snA=197076">【閒聊】洛克人生 (吉米謝 繪)</a></td>
-<td align="right">79</td>
+<td align="right">84</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>4</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60037">動漫相關綜合</a></td>
+<span>4</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60599">Steam 綜合討論板</a></td>
+<td><a href="http://forum.gamer.com.tw/C.php?bsn=60599&amp;snA=9848">【情報】特賣開始囉</a></td>
+<td align="right">75</td>
+</tr> <tr>
+<td align="center" valign="middle" width="15">
+<span>5</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60037">動漫相關綜合</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60037&amp;snA=65557">【情報】ComicREX 連載《政宗君的復仇》TV 動畫化決定</a></td>
-<td align="right">52</td>
+<td align="right">53</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>5</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60208">軍事策略</a></td>
+<span>6</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60599">Steam 綜合討論板</a></td>
+<td><a href="http://forum.gamer.com.tw/C.php?bsn=60599&amp;snA=9852">【閒聊】STEAM 特價戰圖</a></td>
+<td align="right">48</td>
+</tr> <tr>
+<td align="center" valign="middle" width="15">
+<span>7</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60091">酸甜苦辣留言板</a></td>
+<td><a href="http://forum.gamer.com.tw/C.php?bsn=60091&amp;snA=41719">【情報】新鮮小海風GET !!</a></td>
+<td align="right">48</td>
+</tr> <tr>
+<td align="center" valign="middle" width="15">
+<span>8</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60208">軍事策略</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60208&amp;snA=7473">【情報】美國空軍絕不放棄...幹掉自家的疣豬</a></td>
 <td align="right">45</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>6</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60091">酸甜苦辣留言板</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60091&amp;snA=41719">【情報】新鮮小海風GET !!</a></td>
-<td align="right">45</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>7</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60599">Steam 綜合討論板</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60599&amp;snA=9852">【閒聊】STEAM 特價戰圖</a></td>
-<td align="right">42</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>8</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=00867">布袋戲文化綜合討論區</a></td>
+<span>9</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=00867">布袋戲文化綜合討論區</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=00867&amp;snA=68876">【心得】雪山銀燕幫我撐十秒，金光御九界之東皇戰影五觀後感。</a></td>
 <td align="right">42</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>9</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60200">電影娛樂新視界</a></td>
+<span>10</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60200">電影娛樂新視界</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60200&amp;snA=26094">【心得】【懷舊經典】《晶兵總動員 Small Soldiers》~玩具兵進行曲</a></td>
 <td align="right">40</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>10</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=00867">布袋戲文化綜合討論區</a></td>
+<span>11</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60001">電視遊樂器綜合討論區</a></td>
+<td><a href="http://forum.gamer.com.tw/C.php?bsn=60001&amp;snA=37817">【心得】15吋攜帶用遊戲螢幕購入</a></td>
+<td align="right">40</td>
+</tr> <tr>
+<td align="center" valign="middle" width="15">
+<span>12</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=00867">布袋戲文化綜合討論區</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=00867&amp;snA=68877">【問題】東門朝日 表示：</a></td>
 <td align="right">40</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>11</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60036">綜合公仔玩具討論區</a></td>
+<span>13</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60036">綜合公仔玩具討論區</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60036&amp;snA=35839">【心得】Mouse Unit 隔壁家的安妮特 bunny(兔女郎)</a></td>
 <td align="right">39</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>12</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60001">電視遊樂器綜合討論區</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60001&amp;snA=37817">【心得】15吋攜帶用遊戲螢幕購入</a></td>
-<td align="right">39</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>13</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60030">電腦應用綜合討論</a></td>
+<span>14</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60030">電腦應用綜合討論</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60030&amp;snA=431313">【情報】DX12解放多執行緒 遊戲實測：AMD要逆襲Intel！</a></td>
-<td align="right">35</td>
+<td align="right">38</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>14</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60537">桌上遊戲 (BoardGame) 綜合討論</a></td>
+<span>15</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60537">桌上遊戲 (BoardGame) 綜合討論</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60537&amp;snA=1964">【情報】『瓦茲米提』桌遊開發及募資活動</a></td>
-<td align="right">28</td>
+<td align="right">29</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>15</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60208">軍事策略</a></td>
+<span>16</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60208">軍事策略</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60208&amp;snA=7472">【心得】【關於海軍建軍計畫的看法與猜測】</a></td>
 <td align="right">26</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>16</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60053">模型技術與資訊</a></td>
+<span>17</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60053">模型技術與資訊</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60053&amp;snA=47795">【作品分享】模型阿爸 給他逼母的蓋特機器人</a></td>
 <td align="right">26</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>17</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=04373">NBA 系列</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=04373&amp;snA=89976">【情報】2016 NBA 決賽 LBJ &amp; KI Highlights</a></td>
-<td align="right">23</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>18</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60084">歡樂惡搞 KUSO</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60084&amp;snA=197069">【其他】源氏太OP啦！《鬥陣特攻》之Etika的源氏心法 (中文字幕)</a></td>
-<td align="right">22</td>
+<span>18</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60030">電腦應用綜合討論</a></td>
+<td><a href="http://forum.gamer.com.tw/C.php?bsn=60030&amp;snA=431305">【心得】利民HR-02 灰塵情理心得</a></td>
+<td align="right">25</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
 <span>19</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60559">智慧型手機</a></td>
 <td><a href="http://forum.gamer.com.tw/C.php?bsn=60559&amp;snA=21528">【討論】四大旗艦不負責任規格比析</a></td>
-<td align="right">20</td>
+<td align="right">23</td>
 </tr> <tr>
 <td align="center" valign="middle" width="15">
-<span>20</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60559">智慧型手機</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60559&amp;snA=21526">【心得】HTC 10 夕光紅 + 犀牛盾 開箱文</a></td>
-<td align="right">18</td>
+<span>20</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=04373">NBA 系列</a></td>
+<td><a href="http://forum.gamer.com.tw/C.php?bsn=04373&amp;snA=89976">【情報】2016 NBA 決賽 LBJ &amp; KI Highlights</a></td>
+<td align="right">23</td>
 </tr></table>
 <a href="http://www.gamer.com.tw/ie8_slice.php#sliceHaLa" rel="feedurl" style="display:none"></a>
 <p><a href="http://forum.gamer.com.tw/A.php?bsn=60148">&gt; 申請新板</a> <a href="http://forum.gamer.com.tw">&gt; 前往哈啦區</a></p>
