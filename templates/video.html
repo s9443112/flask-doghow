@@ -1,5 +1,33 @@
 {% extends "bootstrapbase.html" %}
 
+{% block head %}
+  <title>Re:從零開始的異世界生活</title>
+
+  <!-- JavaScript -->
+<script src="//cdn.jsdelivr.net/alertifyjs/1.7.1/alertify.min.js"></script>
+
+<!-- CSS -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/alertify.min.css"/>
+<!-- Default theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/default.min.css"/>
+<!-- Semantic UI theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/semantic.min.css"/>
+<!-- Bootstrap theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/bootstrap.min.css"/>
+
+<!--
+    RTL version
+-->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/alertify.rtl.min.css"/>
+<!-- Default theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/default.rtl.min.css"/>
+<!-- Semantic UI theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/semantic.rtl.min.css"/>
+<!-- Bootstrap theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/bootstrap.rtl.min.css"/>
+
+{% endblock %}
+
 {% block content %}
 
 <div class="container-fluid">
@@ -9,9 +37,14 @@
       <div class = "jumbotron">
         <h2>Re:從零開始的異世界生活</h2>
           {{ take_video|safe }}
+      </div>
 
+      <script>
 
-
+        alertify.alert("還沒建置完畢", function(){
+          alertify.message('OK');
+        });
+      </script>
 
   </div>
 </div>

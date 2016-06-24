@@ -1,6 +1,34 @@
 {% extends "bootstrapbase.html" %}
 {% block head %}
   <title>爬蟲-公佈欄</title>
+  <!--
+  <script src="{{ url_for('static', filename='vis/alertify.min.js') }}"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='vis/alertify.min.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='vis/alertify.rtl.min.css') }}">
+-->
+  <!-- JavaScript -->
+<script src="//cdn.jsdelivr.net/alertifyjs/1.7.1/alertify.min.js"></script>
+
+<!-- CSS -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/alertify.min.css"/>
+<!-- Default theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/default.min.css"/>
+<!-- Semantic UI theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/semantic.min.css"/>
+<!-- Bootstrap theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/bootstrap.min.css"/>
+
+<!--
+    RTL version
+-->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/alertify.rtl.min.css"/>
+<!-- Default theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/default.rtl.min.css"/>
+<!-- Semantic UI theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/semantic.rtl.min.css"/>
+<!-- Bootstrap theme -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.7.1/css/themes/bootstrap.rtl.min.css"/>
+
 {% endblock %}
 
 {% block content %}
@@ -21,6 +49,13 @@
           {{ take_words|safe }}
       </div>
     </div>
+
+    <script>
+
+    alertify.alert("爬蟲完畢", function(){
+      alertify.message('OK');
+    });
+    </script>
 
   </div>
 </div>
