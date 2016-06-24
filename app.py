@@ -1,14 +1,14 @@
 
 from flask import render_template,request,Flask
 import sys
-'''
+import io
 import yuntech_csie
 import gamer
 import video
-'''
+
 from flask.ext.googlemaps import GoogleMaps
 from flask.ext.googlemaps import Map
-import io
+
 app=Flask(__name__)
 
 GoogleMaps(app)
