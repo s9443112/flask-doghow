@@ -8,7 +8,7 @@ import video
 '''
 from flask.ext.googlemaps import GoogleMaps
 from flask.ext.googlemaps import Map
-
+import io
 app=Flask(__name__)
 
 GoogleMaps(app)
@@ -26,7 +26,7 @@ def skill_tree():
 def billboard():
     take_words = ''
     words = ''
-    f = open('yuntech_news_list.txt','r',encoding='utf-8')
+    f = io.open('yuntech_news_list.txt','r',encoding='utf-8')
     while True:
         words = f.readline()
         if(words==''):
@@ -36,7 +36,7 @@ def billboard():
     #print(take_words)
     take_game_words = ''
     game_words = ''
-    f = open('gamer_news_list.txt','r',encoding='utf-8')
+    f = io.open('gamer_news_list.txt','r',encoding='utf-8')
     while True:
         game_words = f.readline()
         if(game_words==''):
