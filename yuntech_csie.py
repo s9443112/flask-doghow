@@ -10,7 +10,7 @@ import io
 langs = []
 links = 'http://www.csie.yuntech.edu.tw/index.php'
 
-yuntech_csie = open('yuntech_csie.txt',encoding = "utf-8",mode = "w")
+yuntech_csie = io.open('yuntech_csie.txt',encoding = "utf-8",mode = "w")
 
 res = requests.get(links)
 res.encoding = 'utf-8'
@@ -27,7 +27,7 @@ news_table = news_table.find('ul',{'class':'smartlatest'})
 
 
 
-yuntech_news_list = open('yuntech_news_list.txt',encoding = "utf-8",mode = 'w')
+yuntech_news_list = io.open('yuntech_news_list.txt',encoding = "utf-8",mode = 'w')
 count = 0
 '''
 for i in range(1,len(news_table)):
