@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import HTMLParser
+from HTMLParser import HTMLParser
 import time
 from random import randint
 import sys

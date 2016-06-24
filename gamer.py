@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-import HTMLParser
+from HTMLParser import HTMLParser
 import sys
 from IPython.display import clear_output
 import io
