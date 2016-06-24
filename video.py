@@ -5,7 +5,7 @@ import time
 from random import randint
 import sys
 from IPython.display import clear_output
-
+import io
 
 langs = []
 links = 'http://2d-gate.org/thread-12871-1-1.html#.V2uh2bh96hc'

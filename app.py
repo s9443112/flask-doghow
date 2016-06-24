@@ -1,11 +1,11 @@
 
 from flask import render_template,request,Flask
 import sys
-'''
+
 import yuntech_csie
 import gamer
 import video
-'''
+
 from flask.ext.googlemaps import GoogleMaps
 from flask.ext.googlemaps import Map
 import io
@@ -49,7 +49,7 @@ def billboard():
 def video():
     take_video = ''
     video = ''
-    f = open('video_2d_gate_get.txt','r',encoding='utf-8')
+    f = io.open('video_2d_gate_get.txt','r',encoding='utf-8')
     while True:
         video = f.readline()
         if(video==''):

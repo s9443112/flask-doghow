@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import HTMLParser
 import sys
 from IPython.display import clear_output
+import io
 
 lang = []
 links = 'http://bahamut.com.tw/'

@@ -5,7 +5,7 @@ import time
 from random import randint
 import sys
 from IPython.display import clear_output
-
+import io
 
 langs = []
 links = 'http://www.csie.yuntech.edu.tw/index.php'
