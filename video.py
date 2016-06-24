@@ -10,7 +10,7 @@ import io
 langs = []
 links = 'http://2d-gate.org/thread-12871-1-1.html#.V2uh2bh96hc'
 
-video_2d_gate = io.open('2d_gate.txt',encoding = 'utf-8',mode = 'w')
+video_2d_gate = io.open('2d_gate.txt','w',encoding = 'utf-8')
 
 res = requests.get(links)
 res.encoding = 'utf-8'
@@ -66,7 +66,7 @@ for i in range(1,len(news_table)):
 2d_gate_get.close()
 '''
 
-video_2d_gate_get = io.open('video_2d_gate_get.txt',encoding = 'utf-8',mode = 'w')
+video_2d_gate_get = io.open('video_2d_gate_get.txt','w',encoding = 'utf-8')
 try:
     news_table = str(news_table)
 except Exception as e:

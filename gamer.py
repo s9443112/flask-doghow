@@ -7,7 +7,7 @@ import io
 
 lang = []
 links = 'http://bahamut.com.tw/'
-gamer = io.open('gamer.txt',encoding = 'utf-8', mode = 'w')
+gamer = io.open('gamer.txt','w',encoding = 'utf-8')
 
 res = requests.get(links)
 res.encoding = 'utf-8'
@@ -21,7 +21,7 @@ news_table = soup.find('div',{'id':'hothala'})
 ##news_table = news_table.find('table',{'class':'EXA8'})
 ##news_table = news_table.find_all('tr')
 
-gamer_news_list = io.open('gamer_news_list.txt',encoding = 'utf-8',mode = 'w')
+gamer_news_list = io.open('gamer_news_list.txt','w',encoding = 'utf-8')
 '''
 for i in range(1,len(news_table)):
     try:
