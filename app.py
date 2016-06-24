@@ -61,7 +61,7 @@ def video():
 
 @app.route('/about')
 def about():
-    introduce = {'chinese':'李品皜','english':'Timothy','email':'s9443112@gmail.com'}
+    introduce = {'english':'Timothy','email':'s9443112@gmail.com'}
     return render_template('about.html',introduce = introduce)
 
 @app.route('/albums')
