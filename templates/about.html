@@ -1,0 +1,47 @@
+{% extends "bootstrapbase.html" %}
+
+{% block head %}
+
+  <title>Contact - Dogger </title>
+{% endblock %}
+
+{% block content %}
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-md-6">
+      <p>自我介紹</p>
+      <ul>
+        <li>中文名：{{ introduce.chinese }}</li>
+        <li>英文名：{{ introduce.english }}</li>
+        <li>E-mail：{{ introduce.email }}</li>
+      </ul>
+      <p>能力專長</p>
+      <ul>
+        <li>網頁語言：HTML、CSS、JS</li>
+        <li>程式語言：C、C++、C#、Python</li>
+        <li>網頁框架：<a href="http://flask.pocoo.org/">Flask</a>、ASP.NET、<a href="https://www.djangoproject.com">Django</a></li>
+        <li>系統：<a href="https://www.archlinux.org/">Archlinux</a>、Windows Server 2012 R2</li>
+      </ul>
+      <p>學歷</p>
+      <ul>
+        <li><a href="http://www.csie.yuntech.edu.tw/">雲林科技大學 - 資訊工程系</a></li>
+        <li><a href="http://210.70.74.22/prac/v7060/index.asp">台中高工電子科</a></li>
+      </ul>
+      <p>興趣</p>
+      <ul>
+        <li>打手槍尻尻</li>
+        <li>打手槍尻尻</li>
+        <li>打手槍尻尻</li>
+        <li>打手槍尻尻</li>
+        <li>打手槍尻尻</li>
+      </ul>
+    </div>
+  <div class="col-md-6"><img src="{{ url_for('static', filename='img/doghow.jpg') }}" class="img-responsive" alt="Cinque Terre"></div>
+</div>
+
+
+
+
+</div>
+
+{% endblock %}

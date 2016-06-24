@@ -1,0 +1,490 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw" dir="ltr" >
+    <head>
+
+          <base href="http://www.csie.yuntech.edu.tw/index.php" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="管理員" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>首頁  - 資訊工程系</title>
+  <link href="http://www.csie.yuntech.edu.tw/index.php/component/search/?id=150&amp;Itemid=102&amp;format=opensearch" rel="search" title="搜尋 資訊工程系" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/media/com_attachments/css/attachments_hide.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_attachments/css/attachments_list.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.csie.yuntech.edu.tw/modules/mod_smartlatest/css/css1.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_slideshowck/themes/default/css/camera.css" type="text/css" />
+  <style type="text/css">
+#camera_wrap_87 .camera_pag_ul li img, #camera_wrap_87 .camera_thumbs_cont ul li > img {height:75px;}
+#camera_wrap_87 .camera_caption {
+	display: block;
+	position: absolute;
+}
+#camera_wrap_87 .camera_caption > div {
+	-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;
+}
+#camera_wrap_87 .camera_caption > div div.slideshowck_description {
+	
+}
+
+@media screen and (max-width: 480px) {
+		.camera_caption {
+			font-size: 0.6em !important;
+		}
+}div.mod_search92 input[type="search"]{ width:auto; }
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+        <link href="/templates/jm-0013/css/editor.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/modules.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/template.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/normal.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/menus.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/menu-default.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/templates/jm-0013/css/style1.css" />
+<link rel="stylesheet" type="text/css" href="/templates/jm-0013/css/defaultwidth.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen" title="narrow" href="/templates/jm-0013/css/narrow.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen" title="wide" href="/templates/jm-0013/css/wide.css" />
+	<link rel="stylesheet" href="/templates/jm-0013/css/template_ltr.css" type="text/css" />
+<link rel="shortcut icon" href="/templates/jm-0013/images/favicon.ico" />
+<!--[if IE]>
+	<link href="/templates/jm-0013/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+    <![endif]-->
+<script type="text/javascript">
+	$template_path = '/templates/jm-0013';
+</script>
+<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/template_scripts.js"></script>
+<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/doctextsizer.js"></script>
+<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/styleswitch.js"></script>    </head>
+<body>
+
+	<div id="all"  style="font-size: 14px; line-height:  20px " >
+     
+		<div id="pageAll"  style="width: 1050px; " >
+			          
+           
+			<div id="topModule">
+				
+
+<div class="custom"  >
+	<p style="text-align: right;"><a href="/WordPress/" target="_blank">English Web</a>　</p></div>
+
+			</div>
+  						<div id="logoSearch" class="clearfix">
+				<div id="logo_sitedesc">
+					<h1 id="logo">
+              
+						<a href="/" onfocus="blur()" ><img src="/images/logo.png" alt="雲林科技大學 - 資訊工程系" border="0"/></a>
+					</h1>
+									</div>
+             
+								<div id="search">
+					<div class="search mod_search92">
+	<form action="/index.php" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">搜尋...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="搜尋..." /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">搜尋</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="102" />
+	</form>
+</div>
+
+				</div>
+               
+							</div>
+          
+			<div id="topmenuIcons" class="clearfix">
+				<div id="icons" class="clearfix">
+									</div>
+              
+				<div id="topmenu">
+					<ul class="nav menu">
+<li class="item-102 current active deeper parent"><a href="/index.php" >首頁 </a><ul class="nav-child unstyled small"><li class="item-169"><a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29" >系務&amp;招生</a></li><li class="item-170"><a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30" >演講&amp;競賽&amp;徵才</a></li></ul></li><li class="item-103 deeper parent"><a href="/index.php/2015-04-11-05-01-39" >系所介紹</a><ul class="nav-child unstyled small"><li class="item-123"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-09-59-33" >系所沿革</a></li><li class="item-124"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-10" >教育目標</a></li><li class="item-125"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-39" >核心能力</a></li><li class="item-126"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-58" >系所組織</a></li><li class="item-127"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-01-17" >學制</a></li><li class="item-128"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-01-40" >空間規劃</a></li><li class="item-129"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-02-20" >實驗室規則與管理</a></li><li class="item-130"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-02-43" >未來展望</a></li><li class="item-155"><a href="/index.php/2015-04-11-05-01-39/2015-11-30-04-10-55" >畢業出路</a></li></ul></li><li class="item-104 deeper parent"><a href="/index.php/2015-04-11-05-26-37" >系所成員</a><ul class="nav-child unstyled small"><li class="item-131 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37" >嵌入式系統</a><ul class="nav-child unstyled small"><li class="item-137"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#01" >張慶龍 老師</a></li><li class="item-138"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#06" >林建州 老師</a></li><li class="item-139"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#08" >王文楓 老師</a></li><li class="item-140"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#10" >朱宗賢 老師</a></li></ul></li><li class="item-132 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21" >多媒體系統</a><ul class="nav-child unstyled small"><li class="item-141"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#02" >黃胤傅 老師</a></li><li class="item-142"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#04" >張傳育 老師</a></li><li class="item-143"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#11" >康立威 老師</a></li><li class="item-144"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#12" >陳士煜 老師</a></li></ul></li><li class="item-133 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22" >電腦網路系統</a><ul class="nav-child unstyled small"><li class="item-145"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#03" >伍麗樵 老師</a></li><li class="item-146"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#05" >張本杰 老師</a></li><li class="item-147"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#09" >許正欣 老師</a></li><li class="item-148"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#07" >郭文中 老師</a></li></ul></li><li class="item-134"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?layout=edit&amp;id=48" >行政人員</a></li></ul></li><li class="item-105 deeper parent"><a href="/index.php/2015-04-11-05-34-20" >修業資訊</a><ul class="nav-child unstyled small"><li class="item-135"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-34-20" >資工系</a></li><li class="item-136"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-34-20?id=18" >資工所</a></li></ul></li><li class="item-106"><a href="https://examweb.yuntech.edu.tw/WebExams/default.aspx" target="_blank" >招生資訊</a></li><li class="item-109"><a href="/index.php/2015-04-11-05-36-14" >獲獎紀錄</a></li><li class="item-107 deeper parent"><a href="/index.php/2015-04-11-05-35-15" >研究成果</a><ul class="nav-child unstyled small"><li class="item-151"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-35-15#01" >專題研究計畫</a></li><li class="item-152"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-35-15#02" >大學生專題計畫</a></li><li class="item-153"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-35-15#03" >產學合作計畫</a></li><li class="item-154"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-35-15#04" >補助案計畫</a></li></ul></li><li class="item-149"><a href="/index.php/2015-10-28-07-33-52" >專題演講</a></li><li class="item-150"><a href="/index.php/2015-10-28-07-34-18" >交換生</a></li><li class="item-108"><a href="/index.php/2015-04-11-05-35-44" >表單下載 </a></li><li class="item-157"><a href="/index.php/2015-12-07-12-57-43" >相關連結</a></li></ul>
+
+				</div>
+			</div>
+           
+			<div id="header">
+											</div>
+			 			<div id="user1_user2" class="clearfix">
+	            				<div id="user1">
+	                <div class="djmodule " id="Mod103">
+	<div class="moduleIn">
+				<div class="module-content clearfix">
+			
+
+<div class="custom"  >
+	<p style="!z-index: -999; !margin-top: -0; !margin-bottom: -0;"><object title="Adobe Flash Player" type="application/x-shockwave-flash" width="100%" height="197"><param name="wmode" value="transparent" /><param name="movie" value="https://www.youtube.com/v/DoF4LYqynFA?autoplay=1&amp;rel=0&amp;controls=0&amp;showinfo=0&amp;loop=" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" />
+<embed src="http://www.youtube.com/v/qvLj0U5FXUM&amp;hl=zh_TW&amp;fs=1" type="application/x-shockwave-flash" width="320" height="265" />
+
+
+</object></p></div>
+		</div>
+	</div>
+</div>
+
+				</div>
+												<div id="user2">
+					<div class="djmodule " id="Mod87">
+	<div class="moduleIn">
+				<div class="module-content clearfix">
+			
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]--><script type="text/javascript"> <!--
+       jQuery(function(){
+        jQuery('#camera_wrap_87').camera({
+                height: '30%',
+                minHeight: '',
+                pauseOnClick: false,
+                hover: 1,
+                fx: 'random',
+                loader: 'pie',
+                pagination: 1,
+                thumbnails: 1,
+                thumbheight: 75,
+                thumbwidth: 100,
+                time: 7000,
+                transPeriod: 1500,
+                alignment: 'center',
+                autoAdvance: 1,
+                mobileAutoAdvance: 1,
+                portrait: 0,
+                barDirection: 'leftToRight',
+                imagePath: '/modules/mod_slideshowck/images/',
+                lightbox: 'mediaboxck',
+                fullpage: 0,
+				mobileimageresolution: '0',
+                navigationHover: true,
+				mobileNavHover: true,
+				navigation: true,
+				playPause: true,
+                barPosition: 'bottom',
+				container: ''
+        });
+}); //--> </script><!-- debut Slideshow CK -->
+<div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_87">
+			<div data-thumb="/images/th/Banner_851x315px-08_th.jpg" data-src="/images/Banner_851x315px-08.jpg"  data-time="10000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						台達電Moocs-嵌入式系統開課囉!!											</div>
+					<div class="camera_caption_desc">
+																	</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/P1010769_th.JPG" data-src="/images/P1010769.JPG" >
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						盛群半導體股份有限公司致雲林科技大學工程學院捐贈設備儀式											</div>
+					<div class="camera_caption_desc">
+																	</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/104_th.jpg" data-src="/images/104.jpg"  data-time="3000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						104學年度實務專題競賽											</div>
+					<div class="camera_caption_desc">
+						104學年度實務專題競賽完滿結束											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/2015_th.jpg" data-src="/images/2015.jpg"  data-time="3000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						系友回娘家											</div>
+					<div class="camera_caption_desc">
+						2015年校慶暨系友回娘家活動											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/1041016PIC_th.png" data-src="/images/1041016PIC.png"  data-time="6000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						資工系活動照片											</div>
+					<div class="camera_caption_desc">
+						資工系營隊及參訪照片											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/smile1214_th.png" data-src="/images/smile1214.png"  data-time="4000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						2015雲科微笑											</div>
+					<div class="camera_caption_desc">
+						2015雲科微笑大合照											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/1041016-PIC_th.png" data-src="/images/1041016-PIC.png"  data-time="6000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						資工系104年記者會											</div>
+					<div class="camera_caption_desc">
+						資工系104年記者會											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/100_th.png" data-src="/images/100.png"  data-time="1000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						100級畢業學生											</div>
+					<div class="camera_caption_desc">
+						資工系100級畢業學生團體照											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/PIC_th.png" data-src="/images/PIC.png"  data-time="4000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						資工系參訪活動											</div>
+					<div class="camera_caption_desc">
+						資工系/國家高速網路與計算中心中正高工參訪活動											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/002_th.png" data-src="/images/002.png"  data-time="500">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						雲科水塔											</div>
+					<div class="camera_caption_desc">
+						斗六最高建築											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/101-graduate_th.jpg" data-src="/images/101-graduate.jpg"  data-time="2000">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						101級畢業生團拍											</div>
+					<div class="camera_caption_desc">
+						大學部											</div>
+				</div>
+					</div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin Slideshow CK -->
+		</div>
+	</div>
+</div>
+
+				</div>
+				            </div>                                   
+            			<div id="pathwayFonts" class="clearfix">
+											</div>
+			<div id="wrapper" class="scheme_1">
+            	<div id="main" class="clearfix">
+												
+	                <div id="content"> 
+						                        <div id="maincontent">
+                            <div id="system-message-container">
+	</div>
+
+							<div class="item-page" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="zh-TW" />
+	
+		
+			<div class="page-header">
+		<h2 itemprop="name">
+							最新消息					</h2>
+							</div>
+					
+	
+	
+		
+								<div itemprop="articleBody">
+		 <div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_150"></div>
+
+</div>	</div>
+
+	
+						</div>
+								
+                        </div>		
+					</div>
+						
+				</div>
+			</div>
+						<div id="bottom"> 	
+				<div id="modules-bottom" class="m2 clearfix" >
+					     
+		             
+											<div class="modules-bottom-in">
+							<div class="djmodule2 " id="Mod115">			
+			<h7 class="title">系務&招生</h7>
+		<div class="module-content2 clearfix">
+		
+<ul class="smartlatest">
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/191-2016-06-21-08-30-55" class="smartlatest-title-link">			交換學生學分抵免注意事項及流程            </a>            </div>
+   		<div class="smartlatest-date">2016-06-21</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/189-105-8-45-9-20" class="smartlatest-title-link">			105級畢業典禮工程學院校園巡禮8:45~9：20            </a>            </div>
+   		<div class="smartlatest-date">2016-06-17</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/187-2016-06-16-06-48-36" class="smartlatest-title-link">			請注意安全！！            </a>            </div>
+   		<div class="smartlatest-date">2016-06-16</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/180-105-4" class="smartlatest-title-link">			【重要!!】105學年度四技甄選入學 面試通知暨相關注意事項(面試順序請看附件)            </a>            </div>
+   		<div class="smartlatest-date">2016-06-07</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/99-2016-01-05-08-41-20" class="smartlatest-title-link">			資訊工程系選課公告            </a>            </div>
+   		<div class="smartlatest-date">2016-01-05</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/183-2016-06-14-02-41-43" class="smartlatest-title-link">			畢業典禮-工程校園巡禮            </a>            </div>
+   		<div class="smartlatest-date">2016-06-14</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/182-cpe" class="smartlatest-title-link">			實務專題(一)CPE成績            </a>            </div>
+   		<div class="smartlatest-date">2016-06-08</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/177-1050608" class="smartlatest-title-link">			105學年度指導研究生調查表            </a>            </div>
+   		<div class="smartlatest-date">2016-06-03</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/172-101-cpe" class="smartlatest-title-link">			針對本屆大四生(101級)可以下列方式進行CPE成績之抵免方案            </a>            </div>
+   		<div class="smartlatest-date">2016-05-31</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/175-104-2" class="smartlatest-title-link">			審查未能於104-2如期畢業之學生清冊            </a>            </div>
+   		<div class="smartlatest-date">2016-06-01</div>    	    			
+	</li>
+	<li  class="smartlatest-more"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29">More news...</a></li>
+</ul>
+<div style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-style:italic; text-align:right; display:block;">By <a href="http://master-comunicacion.es">Master en comunicaci&oacute;n</a></div>
+
+	</div>		
+</div>
+
+						</div>
+		             
+											<div class="modules-bottom-in">
+							<div class="djmodule2 " id="Mod117">			
+			<h7 class="title">演講&競賽&徵才</h7>
+		<div class="module-content2 clearfix">
+		
+<ul class="smartlatest">
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/193-2016-8" class="smartlatest-title-link">			2016走馬飛車無動力造型車大賽            </a>            </div>
+   		<div class="smartlatest-date">2016-06-23</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/192-2016-7" class="smartlatest-title-link">			2016 羅創客機器人大賽            </a>            </div>
+   		<div class="smartlatest-date">2016-06-23</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/190-2016-06-21-06-34-54" class="smartlatest-title-link">			檢送清華大學來函            </a>            </div>
+   		<div class="smartlatest-date">2016-06-21</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/186-2016-06-16-02-06-58" class="smartlatest-title-link">			教育部實習媒合平臺，找實習/找工作~            </a>            </div>
+   		<div class="smartlatest-date">2016-06-16</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/184-axxis-yuntech" class="smartlatest-title-link">			AXXIS瑪吉斯音樂學院YunTech音樂會            </a>            </div>
+   		<div class="smartlatest-date">2016-06-15</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/181-2016-06-08-02-37-29" class="smartlatest-title-link">			檢送台灣港務有限公司來函            </a>            </div>
+   		<div class="smartlatest-date">2016-06-08</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/179-105" class="smartlatest-title-link">			【徵才】精英電腦105年度暑期及學年實習申請資訊            </a>            </div>
+   		<div class="smartlatest-date">2016-06-04</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/178-7-1" class="smartlatest-title-link">			【競賽】第一屆全國科技大專院校程式競賽(7/1)            </a>            </div>
+   		<div class="smartlatest-date">2016-06-04</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/173-2016-06-01-05-22-02" class="smartlatest-title-link">			【徵才】華廣生技股份有限公司徵才訊息            </a>            </div>
+   		<div class="smartlatest-date">2016-06-01</div>    	    			
+	</li>
+	<li class="smartlatest-newsli">
+    	    	
+		    	<div class="smartlatest-title">
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/170-2016cnc" class="smartlatest-title-link">			2016CNC國產控制器團隊競賽            </a>            </div>
+   		<div class="smartlatest-date">2016-05-30</div>    	    			
+	</li>
+	<li  class="smartlatest-more"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30">More news...</a></li>
+</ul>
+<div style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-style:italic; text-align:right; display:block;">By <a href="http://master-comunicacion.es">Master en comunicaci&oacute;n</a></div>
+
+	</div>		
+</div>
+
+						</div>
+		                 	
+				</div>
+			</div> 
+ 			 
+			<div id="footer" class="clearfix">
+              <div id="xhtmlCss"><p>
+                <a>64002 雲林縣斗六市大學路3段123號 工程五館一樓(EB115)
+                  <p>電話：05-5342601&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分機：4501, 4502 
+                  <p>傳真：05-5312170
+                </a>
+				</div>
+				<div id="rss"></div>
+			</div>
+			
+		</div>
+	</div>
+</body>
+</html>

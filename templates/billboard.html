@@ -1,0 +1,26 @@
+{% extends "bootstrapbase.html" %}
+
+{% block content %}
+
+<div class="container-fluid">
+  <div class="row">
+
+    <div class="col-md-6">
+      <div class = "jumbotron">
+        <h2>巴哈姆特哈拉區熱門文章</h2>
+          {{ take_game_words|safe }}
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class = "jumbotron">
+        <h2>雲科大資工公佈欄</h2>
+          {{ take_words|safe }}
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+{% endblock %}

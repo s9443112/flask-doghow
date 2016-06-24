@@ -1,0 +1,140 @@
+{% extends "bootstrapbase.html" %}
+
+  {% block head %}
+
+
+  <title>Skill Tree</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://visjs.org/dist/vis.js"></script>
+  <link href="http://visjs.org/dist/vis.css" rel="stylesheet" type="text/css" />
+  <style type="text/css">
+    body {
+      font: 10pt arial;
+    }
+    #mynetwork {
+
+      border: 1px solid lightgray;
+      background-color:#333333;
+    }
+  </style>
+
+    <script type="text/javascript">
+    var DIR = '../static/img/soft-scraps-icons/';
+
+    var nodes = null;
+    var edges = null;
+    var network = null;
+    // Called when the Visualization API is loaded.
+    function draw() {
+      // create people.
+      // value corresponds with the age of the person
+      var DIR = '../static/img/indonesia/';
+        nodes = [
+          {id: 1,  shape: 'image', image: DIR + 'doghow.jpg',label:"I'm here!!!"},
+          {id: 2,  shape: 'circularImage', image: DIR + 'c.png',label:"C language"},
+          {id: 3,  shape: 'circularImage', image: DIR + 'c++.png'},
+          {id: 4,  shape: 'circularImage', image: DIR + 'swift.jpg', label:"pictures by this guy!"},
+          {id: 5,  shape: 'circularImage', image: DIR + 'C_sharp.png'},
+          {id: 6,  shape: 'circularImage', image: DIR + 'java.jpg'},
+          {id: 7,  shape: 'circularImage', image: DIR + 'Javascript.png'},
+          {id: 8,  shape: 'circularImage', image: DIR + 'Python.png'},
+          {id: 9,  shape: 'circularImage', image: DIR + 'php.png'},
+          {id: 10, shape: 'circularImage', image: DIR + 'flask.png'},
+          {id: 11, shape: 'circularImage', image: DIR + 'django.png'},
+          {id: 12, shape: 'circularImage', image: DIR + 'nodejs.png'},
+          {id: 13, shape: 'circularImage', image: DIR + 'xcode.png'},
+          {id: 14, shape: 'circularImage', image: DIR + 'visual_studio.png'},
+          {id: 15, shape: 'circularImage', image: DIR + 'html.png', brokenImage: DIR + 'missingBrokenImage.png', label:"when images\nfail\nto load"},
+          {id: 16, shape: 'circularImage', image: DIR + 'anotherMissing.png', brokenImage: DIR + '9.png', label:"fallback image in action"}
+        ];
+
+        // create connections between people
+        // value corresponds with the amount of contact between two people
+        edges = [
+          {from: 1, to: 2},
+          {from: 2, to: 3},
+          {from: 2, to: 4},
+          {from: 2, to: 5},
+          {from: 1, to: 6},
+          {from: 1, to: 15},
+          {from: 15, to: 7},
+          {from: 1, to: 8},
+          {from: 15, to: 9},
+          {from: 8, to: 11},
+          {from: 8, to: 10},
+          {from: 7, to: 12},
+          {from: 2, to: 14},
+          {from: 4, to: 13}
+        ];
+
+        // create a network
+        var container = document.getElementById('mynetwork');
+        var data = {
+          nodes: nodes,
+          edges: edges
+        };
+        var options = {
+          nodes: {
+            borderWidth:4,
+            size:30,
+          color: {
+              border: '#222222',
+              background: '#666666'
+            },
+            font:{color:'#eeeeee'}
+          },
+          edges: {
+            color: 'lightgray'
+          }
+        };
+        network = new vis.Network(container, data, options);
+      }
+    </script>
+  {% endblock %}
+
+  {% block body %}
+<body onload="draw()">
+  <div class="container">
+
+      <!-- Static navbar -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index">狗之傳說</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="/billboard">Home</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/skill_tree">Skill Tree</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/googlemap">Google Maps</a></li>
+                  <li><a href="/albums">Albums</a></li>
+                  
+                </ul>
+              </li>
+            </ul>
+
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+      <!-- Main component for a primary marketing message or call to action -->
+
+        <div class="jumbotron">
+
+          <div id="mynetwork"></div>
+        </div>
+
+    </div>
+
+
+</body>
+  {% endblock %}

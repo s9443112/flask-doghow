@@ -1,0 +1,53 @@
+<ul class="smartlatest">
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/191-2016-06-21-08-30-55">			交換學生學分抵免注意事項及流程            </a> </div>
+<div class="smartlatest-date">2016-06-21</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/189-105-8-45-9-20">			105級畢業典禮工程學院校園巡禮8:45~9：20            </a> </div>
+<div class="smartlatest-date">2016-06-17</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/187-2016-06-16-06-48-36">			請注意安全！！            </a> </div>
+<div class="smartlatest-date">2016-06-16</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/180-105-4">			【重要!!】105學年度四技甄選入學 面試通知暨相關注意事項(面試順序請看附件)            </a> </div>
+<div class="smartlatest-date">2016-06-07</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/99-2016-01-05-08-41-20">			資訊工程系選課公告            </a> </div>
+<div class="smartlatest-date">2016-01-05</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/183-2016-06-14-02-41-43">			畢業典禮-工程校園巡禮            </a> </div>
+<div class="smartlatest-date">2016-06-14</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/182-cpe">			實務專題(一)CPE成績            </a> </div>
+<div class="smartlatest-date">2016-06-08</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/177-1050608">			105學年度指導研究生調查表            </a> </div>
+<div class="smartlatest-date">2016-06-03</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/172-101-cpe">			針對本屆大四生(101級)可以下列方式進行CPE成績之抵免方案            </a> </div>
+<div class="smartlatest-date">2016-05-31</div>
+</li>
+<li class="smartlatest-newsli">
+<div class="smartlatest-title">
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/175-104-2">			審查未能於104-2如期畢業之學生清冊            </a> </div>
+<div class="smartlatest-date">2016-06-01</div>
+</li>
+<li class="smartlatest-more"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29">More news...</a></li>
+</ul>

@@ -1,0 +1,31 @@
+{% extends "bootstrapbase.html" %}
+
+{% block head %}
+    <title>Google Map</title>
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAqWLRfhz9xoAI194EMdOpXSGwbT0rjDTE&callback=initMap">
+    </script>
+{% endblock %}
+{% block content%}
+  <div class="jumbotron">
+  <h1>Flask Google Maps </h1>
+
+  <h2> Google Dev Bus - Yuntech </h2>
+  {% with %}
+
+      {% set location=(23.696167,120.533995) %}
+      {% set style="width:1000px;height:500px;"%}
+
+      {{
+      googlemap(
+          "simple-map",
+          location.0, location.1,
+          markers=[location,],
+          style=style
+          )
+      }}
+
+  {% endwith %}
+</div>
+
+{% endblock %}
