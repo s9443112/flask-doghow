@@ -5,7 +5,7 @@ import io
 
 import yuntech_csie
 import gamer
-import video
+#import video
 
 from flask.ext.googlemaps import GoogleMaps
 from flask.ext.googlemaps import Map
