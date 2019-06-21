@@ -1,53 +1,53 @@
 <ul class="smartlatest">
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/496-cpe-eb102">			大學程式能力檢定 (CPE)  考場為EB102            </a> </div>
-<div class="smartlatest-date">2017-09-26</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/882-6-12">			6/12實習行前說明會相關資料電子檔            </a> </div>
+<div class="smartlatest-date">2019-06-21</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/494-10-11-10-26">			雲科大資工系 碩士班甄試入學招生中(10/11-10/26)            </a> </div>
-<div class="smartlatest-date">2017-09-25</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/769-108-107-12-11">			108學年度指導研究生調查表(108.06.05)            </a> </div>
+<div class="smartlatest-date">2018-12-11</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/492-2017-09-22-01-38-48">			【學生急難救助】申請資訊            </a> </div>
-<div class="smartlatest-date">2017-09-22</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/879-1080614">			108學年度四技甄選入學  面試通知暨相關注意事項            </a> </div>
+<div class="smartlatest-date">2019-06-14</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/490-1060921">			【資訊工程系重要公告】給106學年度學生            </a> </div>
-<div class="smartlatest-date">2017-09-21</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/878-2019-06-13-01-43-47">			資工系大學部甄試術科考試範例            </a> </div>
+<div class="smartlatest-date">2019-06-13</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/489-2017-09-20-07-34-00">			實習說明會資訊            </a> </div>
-<div class="smartlatest-date">2017-09-20</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/673-1070619">			107學年度四技甄選入學  面試通知            </a> </div>
+<div class="smartlatest-date">2018-06-19</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/484-2017-11-24-11-25">			2017年資訊工程系實務專題發表訂於11/24-11/25            </a> </div>
-<div class="smartlatest-date">2017-09-19</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/876-2019-06-10">			107-2研究生宿舍離宿暨暑假住宿申請            </a> </div>
+<div class="smartlatest-date">2019-06-10</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/482-1060911">			[重要!]106-1校必修課程            </a> </div>
-<div class="smartlatest-date">2017-09-11</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/868-1080529">			有關修習108-1學期的產業實務實習課程            </a> </div>
+<div class="smartlatest-date">2019-05-29</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/479-106-09-04">			106學年度指導研究生調查表(09/04)            </a> </div>
-<div class="smartlatest-date">2017-09-04</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/867-2019-05-27-06-19-37">			「研究生論文題目暨指導教授提報」公告            </a> </div>
+<div class="smartlatest-date">2019-05-27</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/477-2017-09-04-07-00-12">			歡迎申請英語菁英學程            </a> </div>
-<div class="smartlatest-date">2017-09-04</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/866-0528cpe">			0528CPE考場分配表            </a> </div>
+<div class="smartlatest-date">2019-05-27</div>
 </li>
 <li class="smartlatest-newsli">
 <div class="smartlatest-title">
-<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/476-106-11">			106學年度第1學期 - 英(華)語課程相關規定            </a> </div>
-<div class="smartlatest-date">2017-09-04</div>
+<a class="smartlatest-title-link" href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/855-108-2">			108學年度畢業生請繳交專題本及離系手續單            </a> </div>
+<div class="smartlatest-date">2019-05-06</div>
 </li>
 <li class="smartlatest-more"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29">More news...</a></li>
 </ul>

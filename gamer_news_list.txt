@@ -1,112 +1,21 @@
-<div class="BA-cbox BA-cbox7" id="hothala">
-<table class="EXA8" style="width:100%;">
-<tr>
-<td align="center" valign="middle" width="15"><img src="http://i2.bahamut.com.tw/index_w/new_icon1.gif"/></td>
-<td width="125">哈啦板</td>
-<td>話題</td>
-<td align="right">迴響</td>
-</tr>
-<tr>
-<td align="center" valign="middle" width="15">
-<span>1</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60084">歡樂惡搞 KUSO</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60084&amp;snA=197076">【閒聊】洛克人生 (吉米謝 繪)</a></td>
-<td align="right">143</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>2</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60599">Steam 綜合討論板</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60599&amp;snA=9852">【閒聊】STEAM 特價戰圖</a></td>
-<td align="right">94</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>3</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60091">酸甜苦辣留言板</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60091&amp;snA=41719">【情報】新鮮小海風GET !!</a></td>
-<td align="right">73</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>4</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60208">軍事策略</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60208&amp;snA=7473">【情報】美國空軍絕不放棄...幹掉自家的疣豬</a></td>
-<td align="right">63</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>5</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60037">動漫相關綜合</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60037&amp;snA=65566">【情報】《為美好的世界獻上祝福！》第二季明年 1 月開播！</a></td>
-<td align="right">60</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>6</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60030">電腦應用綜合討論</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60030&amp;snA=431313">【情報】DX12解放多執行緒 遊戲實測：AMD要逆襲Intel！</a></td>
-<td align="right">49</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>7</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60053">模型技術與資訊</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60053&amp;snA=47795">【作品分享】模型阿爸 給他逼母的蓋特機器人</a></td>
-<td align="right">46</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>8</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60481">熱門美國影集</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60481&amp;snA=3100">【心得】冰與火之歌權力遊戲 Game of Thrones S06E09(by雞蛋君</a></td>
-<td align="right">43</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>9</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60037">動漫相關綜合</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60037&amp;snA=65569">【情報】《閃電十一人》系列新企劃與動畫新作決定</a></td>
-<td align="right">38</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>10</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60200">電影娛樂新視界</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60200&amp;snA=26096">【情報】班對《蝙蝠俠》劇本不滿意 除非劇本到達要求才開拍</a></td>
-<td align="right">37</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>11</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60559">智慧型手機</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60559&amp;snA=21528">【討論】四大旗艦不負責任規格比析</a></td>
-<td align="right">31</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>12</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60053">模型技術與資訊</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60053&amp;snA=47801">【心得】扭蛋手塗練習~Green Green Army</a></td>
-<td align="right">29</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>13</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=04373">NBA 系列</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=04373&amp;snA=89976">【情報】2016 NBA 決賽 LBJ &amp; KI Highlights</a></td>
-<td align="right">29</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>14</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60559">智慧型手機</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60559&amp;snA=21526">【心得】HTC 10 夕光紅 + 犀牛盾 開箱文</a></td>
-<td align="right">28</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>15</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60561">職場甘苦談</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60561&amp;snA=6669">【問題】霸工真的不對</a></td>
-<td align="right">27</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>16</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60036">綜合公仔玩具討論區</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60036&amp;snA=35842">【心得】【SIDESHOW】蝙蝠俠:阿卡漢療養院 限定版 小丑雕像 Joker</a></td>
-<td align="right">21</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>17</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60001">電視遊樂器綜合討論區</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60001&amp;snA=37824">【心得】BioHazard Umbrella Corps戰役模式全破</a></td>
-<td align="right">20</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>18</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=04373">NBA 系列</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=04373&amp;snA=89996">【問題】有沒有擁有50萬粉絲的粉絲專業仁別人的文章的八卦?</a></td>
-<td align="right">17</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>19</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=00867">布袋戲文化綜合討論區</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=00867&amp;snA=68887">【心得】非心公子雜談閒語錄之這才是古原爭霸的真面目</a></td>
-<td align="right">16</td>
-</tr> <tr>
-<td align="center" valign="middle" width="15">
-<span>20</span></td><td width="125"><a class="style2" href="http://forum.gamer.com.tw/A.php?bsn=60200">電影娛樂新視界</a></td>
-<td><a href="http://forum.gamer.com.tw/C.php?bsn=60200&amp;snA=26097">【情報】極速秒殺2 預告</a></td>
-<td align="right">15</td>
-</tr></table>
-<a href="http://www.gamer.com.tw/ie8_slice.php#sliceHaLa" rel="feedurl" style="display:none"></a>
-<p><a href="http://forum.gamer.com.tw/A.php?bsn=60148">&gt; 申請新板</a> <a href="http://forum.gamer.com.tw">&gt; 前往哈啦區</a></p>
-</div>
+排名， 哪一版， 主題， 響應 
+1.  Steam 綜合討論板   :   【情報】《電馭叛客 2077》將會與《巫師三：狂獵》一樣擁有完整「額外劇情」的資料片   #    102
+2.  電視遊樂器綜合討論區   :   【情報】KEY社 Switch版Summer Pockets發現自主規制   #    74
+3.  歡樂惡搞 KUSO   :   【宅宅上班族】驚！女廁發現裸...   #    67
+4.  烹飪技巧    :   【Recipe】台式馬卡龍   #    45
+5.  畫技交流區   :   【鬼滅之刃】禰豆子 劇透慎入   #    42
+6.  綜合公仔玩具討論區   :   【閒聊】星環少女 Azaline - CloudMaster ver Figure Project   #    37
+7.  電視遊樂器綜合討論區   :   【心得】沉默之丘歷代遊戲片回顧&黑膠原聲帶開箱   #    36
+8.  綜合公仔玩具討論區   :   【情報】[FREEing]薙切繪里奈 兔女郎Ver.1/4FIGURE預購開始   #    30
+9.  歡樂惡搞 KUSO   :   【其他】【漫畫】不真實歷史事件簿:「周幽王教你如何不用上班打卡?」   #    29
+10.  布袋戲文化綜合討論區   :   【心得】布析─《魔封》59、60集小評(終曲)   #    28
+11.  電影娛樂新視界   :   【情報】《金牌特務》前傳片名確定！預計2020年2月上映   #    22
+12.  職場甘苦談    :   【問題】工作的選擇很苦惱..   #    20
+13.  汽機車討論   :   【情報】[新車試駕]DOHC雙凸輪軸！19P馬力表現 - PGO TIGRA 200 強悍登場！   #    20
+14.  Steam 綜合討論板   :   【情報】絕體絕命都市4 登陸Steam   #    19
+15.  畫技交流區   :   【閒聊】永恆之誓   #    16
+16.  虛擬 Youtuber（Vtuber）    :   【其他】獅子神レオナ 訂閱賀圖   #    15
+17.  偽娘向上委員會   :   【閒聊】又來傷害大家的眼睛了   #    15
+18.  NBA 系列   :   【情報】 2019 NBA選秀會(持續更新)   #    14
+19.  模型技術與資訊   :   【作品分享】HG 哥修羅   #    13
+20.  布袋戲文化綜合討論區   :   【討論】霹靂魔封第59、60章─換檔，準備出新角色啦。   #    13

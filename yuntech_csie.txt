@@ -1,18 +1,18 @@
- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw" dir="ltr" >
-    <head>
-
-          <base href="http://www.csie.yuntech.edu.tw/index.php" />
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="author" content="管理員" />
-  <meta name="generator" content="Joomla! - Open Source Content Management" />
-  <title>首頁  - 資訊工程系</title>
-  <link href="http://www.csie.yuntech.edu.tw/index.php/component/search/?id=150&amp;Itemid=102&amp;format=opensearch" rel="search" title="搜尋 資訊工程系" type="application/opensearchdescription+xml" />
-  <link rel="stylesheet" href="/media/com_attachments/css/attachments_hide.css" type="text/css" />
-  <link rel="stylesheet" href="/media/com_attachments/css/attachments_list.css" type="text/css" />
-  <link rel="stylesheet" href="http://www.csie.yuntech.edu.tw/modules/mod_smartlatest/css/css1.css" type="text/css" />
-  <link rel="stylesheet" href="/modules/mod_slideshowck/themes/default/css/camera.css" type="text/css" />
-  <style type="text/css">
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw" dir="ltr" >
+    <head>
+
+        	<base href="http://www.csie.yuntech.edu.tw/index.php" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="author" content="管理員" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>首　　頁 - 資訊工程系</title>
+	<link href="http://www.csie.yuntech.edu.tw/index.php/component/search/?id=150&amp;Itemid=102&amp;format=opensearch" rel="search" title="搜尋 資訊工程系" type="application/opensearchdescription+xml" />
+	<link href="/media/com_attachments/css/attachments_hide.css" rel="stylesheet" type="text/css" />
+	<link href="/media/com_attachments/css/attachments_list.css" rel="stylesheet" type="text/css" />
+	<link href="http://www.csie.yuntech.edu.tw/modules/mod_smartlatest/css/css1.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_slideshowck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
 #camera_wrap_87 .camera_pag_ul li img, #camera_wrap_87 .camera_thumbs_cont ul li > img {height:70px;}
 #camera_wrap_87 .camera_caption {
 	display: block;
@@ -30,74 +30,77 @@
 			font-size: 0.6em !important;
 		}
 }div.mod_search92 input[type="search"]{ width:auto; }
-  </style>
-  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
-  <script src="/media/system/js/core.js" type="text/javascript"></script>
-  <script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
-  <script src="/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js" type="text/javascript"></script>
-  <script src="/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript"></script>
-  <script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
-  <script type="text/javascript">
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="/modules/mod_slideshowck/assets/jquery.mobile.customized.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script type="text/javascript">
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
-  </script>
-
-        <link href="/templates/jm-0013/css/editor.css" rel="stylesheet" type="text/css" />
-<link href="/templates/jm-0013/css/layout.css" rel="stylesheet" type="text/css" />
-<link href="/templates/jm-0013/css/reset.css" rel="stylesheet" type="text/css" />
-<link href="/templates/jm-0013/css/modules.css" rel="stylesheet" type="text/css" />
-<link href="/templates/jm-0013/css/template.css" rel="stylesheet" type="text/css" />
-<link href="/templates/jm-0013/css/normal.css" rel="stylesheet" type="text/css" />
-<link href="/templates/jm-0013/css/menus.css" rel="stylesheet" type="text/css" />
-<link href="/templates/jm-0013/css/menu-default.css" rel="stylesheet" type="text/css" />
-<link rel="shortcut icon" href="/images/favicon.ico" />
-<link rel="stylesheet" type="text/css" href="/templates/jm-0013/css/style1.css" />
-<link rel="stylesheet" type="text/css" href="/templates/jm-0013/css/defaultwidth.css" />
-<link rel="alternate stylesheet" type="text/css" media="screen" title="narrow" href="/templates/jm-0013/css/narrow.css" />
-<link rel="alternate stylesheet" type="text/css" media="screen" title="wide" href="/templates/jm-0013/css/wide.css" />
-	<link rel="stylesheet" href="/templates/jm-0013/css/template_ltr.css" type="text/css" />
-<link rel="shortcut icon" href="/templates/jm-0013/images/favicon.ico" />
-<!--[if IE]>
-	<link href="/templates/jm-0013/css/ie.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if IE 7]>
-    <![endif]-->
-<script type="text/javascript">
-	$template_path = '/templates/jm-0013';
-</script>
-<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/template_scripts.js"></script>
-<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/doctextsizer.js"></script>
-<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/styleswitch.js"></script>    </head>
-<body>
-
-	<div id="all"  style="font-size: 14px; line-height:  20px " >
-     
-		<div id="pageAll"  style="width: 1050px; " >
-			          
-           
-			<div id="topModule">
+	</script>
+
+        <link href="/templates/jm-0013/css/editor.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/layout.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/modules.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/template.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/normal.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/menus.css" rel="stylesheet" type="text/css" />
+<link href="/templates/jm-0013/css/menu-default.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/templates/jm-0013/css/style1.css" />
+<link rel="stylesheet" type="text/css" href="/templates/jm-0013/css/defaultwidth.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen" title="narrow" href="/templates/jm-0013/css/narrow.css" />
+<link rel="alternate stylesheet" type="text/css" media="screen" title="wide" href="/templates/jm-0013/css/wide.css" />
+	<link rel="stylesheet" href="/templates/jm-0013/css/template_ltr.css" type="text/css" />
+<link rel="shortcut icon" href="/templates/jm-0013/images/favicon.ico" />
+<!--[if IE]>
+	<link href="/templates/jm-0013/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+    <![endif]-->
+<script type="text/javascript">
+	$template_path = '/templates/jm-0013';
+</script>
+<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/template_scripts.js"></script>
+<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/doctextsizer.js"></script>
+<script language="javascript" type="text/javascript" src="/templates/jm-0013/lib/js/styleswitch.js"></script>    </head>
+<body>
+
+	<div id="all"  style="font-size: 14px; line-height:  20px " >
+     
+		<div id="pageAll"  style="width: 1050px; " >
+			          
+           
+			<div id="topModule">
 				
 
 <div class="custom"  >
 	<p style="text-align: right;"><a href="/WordPress/" target="_blank">English Web</a>　</p></div>
+
+			</div>
+  						<div id="logoSearch" class="clearfix">
+				<div id="logo_sitedesc">
+					<h1 id="logo">
+              
+						<a href="/" onfocus="blur()" ><img src="/images/logo.png" alt="雲林科技大學 - 資訊工程系" border="0"/></a>
+					</h1>
+									</div>
+             
+								<div id="search">
+							<div class="moduletableSOLID-2">
 
-			</div>
-  						<div id="logoSearch" class="clearfix">
-				<div id="logo_sitedesc">
-					<h1 id="logo">
-              
-						<a href="/" onfocus="blur()" ><img src="/images/logo.png" alt="雲林科技大學 - 資訊工程系" border="0"/></a>
-					</h1>
-									</div>
-             
-								<div id="search">
-					<div class="search mod_search92">
+		
+			<div class="searchSOLID-2 mod_search92">
 	<form action="/index.php" method="post" class="form-inline">
 		<label for="mod-search-searchword" class="element-invisible">搜尋...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="20" placeholder="搜尋..." /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">搜尋</button>		<input type="hidden" name="task" value="search" />
 		<input type="hidden" name="option" value="com_search" />
@@ -105,36 +108,39 @@ jQuery(window).on('load',  function() {
 	</form>
 </div>
 
-				</div>
-               
-							</div>
-          	<div id="topmenuIcons" class="clearfix">            
-				<div id="topmenu">
-					<ul class="nav menu">
-<li class="item-102 current active deeper parent"><a href="/index.php" >首頁 </a><ul class="nav-child unstyled small"><li class="item-169"><a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29" >系務&amp;招生</a></li><li class="item-170"><a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30" >演講&amp;競賽&amp;徵才</a></li></ul></li><li class="item-103 deeper parent"><a href="/index.php/2015-04-11-05-01-39" >系所介紹</a><ul class="nav-child unstyled small"><li class="item-123"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-09-59-33" >系所沿革</a></li><li class="item-124"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-10" >教育目標</a></li><li class="item-125"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-39" >核心能力</a></li><li class="item-126"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-58" >系所組織</a></li><li class="item-127"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-01-17" >學制</a></li><li class="item-128"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-01-40" >空間規劃</a></li><li class="item-129"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-02-20" >實驗室規則與管理</a></li><li class="item-130"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-02-43" >未來展望</a></li><li class="item-155"><a href="/index.php/2015-04-11-05-01-39/2015-11-30-04-10-55" >畢業出路</a></li></ul></li><li class="item-104 deeper parent"><a href="/index.php/2015-04-11-05-26-37" >系所成員</a><ul class="nav-child unstyled small"><li class="item-131 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37" >嵌入式系統</a><ul class="nav-child unstyled small"><li class="item-137"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#01" >張慶龍 老師</a></li><li class="item-138"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#06" >林建州 老師</a></li><li class="item-139"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#08" >王文楓 老師</a></li><li class="item-140"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#10" >朱宗賢 老師</a></li></ul></li><li class="item-132 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21" >多媒體系統</a><ul class="nav-child unstyled small"><li class="item-141"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#02" >黃胤傅 老師</a></li><li class="item-142"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#04" >張傳育 老師</a></li><li class="item-143"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#11" >康立威 老師</a></li><li class="item-144"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#12" >陳士煜 老師</a></li></ul></li><li class="item-133 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22" >電腦網路系統</a><ul class="nav-child unstyled small"><li class="item-145"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#03" >伍麗樵 老師</a></li><li class="item-146"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#05" >張本杰 老師</a></li><li class="item-147"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#09" >許正欣 老師</a></li><li class="item-148"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#07" >郭文中 老師</a></li></ul></li><li class="item-134"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?layout=edit&amp;id=48" >行政人員</a></li></ul></li><li class="item-105 deeper parent"><a href="/index.php/2015-04-11-05-34-20" >修業資訊</a><ul class="nav-child unstyled small"><li class="item-135"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-34-20" >資工系</a></li><li class="item-136"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-34-20?id=18" >資工所</a></li><li class="item-178"><a href="/index.php/2015-04-11-05-34-20/2017-08-26-05-51-24" >課程流程圖</a></li></ul></li><li class="item-106 deeper parent"><a href="/index.php/2015-04-11-05-34-53" >招生資訊</a><ul class="nav-child unstyled small"><li class="item-150"><a href="/index.php/2015-04-11-05-34-53/2015-10-28-07-34-18" >交換生</a></li><li class="item-173"><a href="/index.php/2015-04-11-05-34-53/2017-02-17-10-19-20" >轉系考</a></li></ul></li><li class="item-109"><a href="/index.php/2015-04-11-05-36-14" >獲獎紀錄</a></li><li class="item-107 deeper parent"><a href="/index.php/2015-04-11-05-35-15" >研究成果</a><ul class="nav-child unstyled small"><li class="item-151"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-35-15#01" >專題研究計畫</a></li><li class="item-152"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-35-15#02" >大學生專題計畫</a></li><li class="item-153"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-35-15#03" >產學合作計畫</a></li><li class="item-154"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-35-15#04" >補助案計畫</a></li></ul></li><li class="item-149"><a href="/index.php/2015-10-28-07-33-52" >專題演講</a></li><li class="item-108"><a href="/index.php/2015-04-11-05-35-44" >表單下載 </a></li><li class="item-157"><a href="/index.php/2015-12-07-12-57-43" >相關連結</a></li><li class="item-171"><a href="/index.php/2017-01-03-10-31-00" >實習</a></li><li class="item-172"><a href="/index.php/2017-01-03-10-57-02" >活動照片</a></li></ul>
+		</div>
 
-				</div>
-          </div>       
-			<div id="header">
-											</div>
-			 			<div id="user1_user2" class="clearfix">
-	            				<div id="user1">
-	                <div class="djmodule " id="Mod103">
-	<div class="moduleIn">
-				<div class="module-content clearfix">
+	
+				</div>
+               
+							</div>
+          	<div id="topmenuIcons" class="clearfix">            
+				<div id="topmenu">
+					<ul class="nav menu">
+<li class="item-102 default current active deeper parent"><a href="/index.php" >首　　頁</a><ul class="nav-child unstyled small"><li class="item-169"><a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29" >系務&amp;招生</a></li><li class="item-170"><a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30" >演講&amp;競賽&amp;徵才</a></li></ul></li><li class="item-103 deeper parent"><a href="/index.php/2015-04-11-05-01-39" >系 所 介 紹</a><ul class="nav-child unstyled small"><li class="item-123"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-09-59-33" >系所沿革</a></li><li class="item-124"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-10" >教育目標</a></li><li class="item-125"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-39" >核心能力</a></li><li class="item-126"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-00-58" >系所組織</a></li><li class="item-127"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-01-17" >學制</a></li><li class="item-128"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-01-40" >空間規劃</a></li><li class="item-129"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-02-20" >實驗室規則與管理</a></li><li class="item-130"><a href="/index.php/2015-04-11-05-01-39/2015-10-21-10-02-43" >未來展望</a></li><li class="item-155"><a href="/index.php/2015-04-11-05-01-39/2015-11-30-04-10-55" >畢業出路</a></li></ul></li><li class="item-104 deeper parent"><a href="/index.php/2015-04-11-05-26-37" >系 所 成 員</a><ul class="nav-child unstyled small"><li class="item-131 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37" >嵌入式系統</a><ul class="nav-child unstyled small"><li class="item-137"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#01" >張慶龍 老師</a></li><li class="item-138"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#06" >林建州 老師</a></li><li class="item-139"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#08" >王文楓 老師</a></li><li class="item-140"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37#10" >朱宗賢 老師</a></li></ul></li><li class="item-132 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21" >多媒體系統</a><ul class="nav-child unstyled small"><li class="item-141"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#02" >黃胤傅 老師</a></li><li class="item-142"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#04" >張傳育 老師</a></li><li class="item-143"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#11" >康立威 老師</a></li><li class="item-144"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=21#12" >陳士煜 老師</a></li></ul></li><li class="item-133 deeper parent"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22" >電腦網路系統</a><ul class="nav-child unstyled small"><li class="item-145"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#03" >伍麗樵 老師</a></li><li class="item-146"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#05" >張本杰 老師</a></li><li class="item-147"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#09" >許正欣 老師</a></li><li class="item-148"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?id=22#07" >郭文中 老師</a></li></ul></li><li class="item-134"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-26-37?layout=edit&amp;id=48" >行政人員</a></li></ul></li><li class="item-105 deeper parent"><a href="/index.php/2015-04-11-05-34-20" >修 業 資 訊</a><ul class="nav-child unstyled small"><li class="item-135"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-34-20" >資工系</a></li><li class="item-136"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-05-34-20?id=18" >資工所</a></li><li class="item-178"><a href="/index.php/2015-04-11-05-34-20/2017-08-26-05-51-24" >課程流程圖</a></li></ul></li><li class="item-106 deeper parent"><a href="/index.php/2015-04-11-05-34-53" >招 生 資 訊</a><ul class="nav-child unstyled small"><li class="item-150"><a href="/index.php/2015-04-11-05-34-53/2015-10-28-07-34-18" >交換生</a></li><li class="item-173"><a href="/index.php/2015-04-11-05-34-53/2017-02-17-10-19-20" >轉學/轉系考</a></li><li class="item-179"><a href="/index.php/2015-04-11-05-34-53/2018-03-13-07-53-49" >大學部</a></li><li class="item-180"><a href="/index.php/2015-04-11-05-34-53/2018-03-13-07-54-27" >碩士班</a></li></ul></li><li class="item-109"><a href="/index.php/2015-04-11-05-36-14" >獲 獎 紀 錄</a></li><li class="item-108"><a href="/index.php/2015-04-11-05-35-44" >表 單 下 載</a></li><li class="item-157"><a href="/index.php/2015-12-07-12-57-43" >相 關 連 結</a></li><li class="item-171"><a href="/index.php/2017-01-03-10-31-00" >校 外 實 習</a></li><li class="item-172"><a href="/index.php/2017-01-03-10-57-02" >活 動 照 片</a></li></ul>
+
+				</div>
+          </div>       
+			<div id="header">
+											</div>
+			 			<div id="user1_user2" class="clearfix">
+	            				<div id="user1">
+	                <div class="djmodule " id="Mod103">
+	<div class="moduleIn">
+				<div class="module-content clearfix">
 			
 
 <div class="custom"  >
 	<p><iframe src="https://www.youtube.com/embed/EtAI0sh7hj4" width="480" height="230" frameborder="0" allowfullscreen=""></iframe></p></div>
-		</div>
-	</div>
-</div>
-
-				</div>
-												<div id="user2">
-					<div class="djmodule " id="Mod87">
-	<div class="moduleIn">
-				<div class="module-content clearfix">
+		</div>
+	</div>
+</div>
+
+				</div>
+												<div id="user2">
+					<div class="djmodule " id="Mod87">
+	<div class="moduleIn">
+				<div class="module-content clearfix">
 			
 		<!--[if lte IE 7]>
 		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
@@ -174,95 +180,63 @@ jQuery(window).on('load',  function() {
         });
 }); //--> </script><!-- debut Slideshow CK -->
 <div class="slideshowck camera_wrap camera_amber_skin" id="camera_wrap_87">
-			<div data-thumb="/images/th/1060926_th.jpg" data-src="/images/1060926.jpg" >
+			<div data-thumb="/images/th/AD_th.jpg" data-src="/images/AD.jpg"  data-alignment="center" data-time="700">
 							<div class="camera_caption moveFromLeft">
 					<div class="camera_caption_title">
-						碩士班甄試網路報名：106年10月11日(三)至106年10月26日(四)止											</div>
+						108碩士班招生											</div>
+					<div class="camera_caption_desc">
+						招生考試網址： 　https://examweb.yuntech.edu.tw/WebExams											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/2018_04_18_th.JPG" data-src="/images/2018_04_18.JPG"  data-time="700">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						經濟部產業人才能力鑑定授證及考證場地合作儀式											</div>
 					<div class="camera_caption_desc">
 																	</div>
 				</div>
 					</div>
-		<div data-thumb="/images/th/P1010769_th.JPG" data-src="/images/P1010769.JPG" >
+		<div data-thumb="/images/th/27480243_1607164976044345_213195508_o_th.jpg" data-src="/images/27480243_1607164976044345_213195508_o.jpg"  data-time="700">
 							<div class="camera_caption moveFromLeft">
 					<div class="camera_caption_title">
-						盛群半導體股份有限公司致雲林科技大學工程學院捐贈設備儀式											</div>
+						107寒假高中營-武士資魂											</div>
 					<div class="camera_caption_desc">
 																	</div>
 				</div>
 					</div>
-		<div data-thumb="/images/th/104_th.jpg" data-src="/images/104.jpg"  data-time="3000">
+		<div data-thumb="/images/th/21458201_1444350325652038_151260201850235819_o_th.jpg" data-src="/images/21458201_1444350325652038_151260201850235819_o.jpg"  data-time="700">
 							<div class="camera_caption moveFromLeft">
 					<div class="camera_caption_title">
-						104學年度實務專題競賽											</div>
+						106新生學涯開展營											</div>
 					<div class="camera_caption_desc">
-						104學年度實務專題競賽完滿結束											</div>
+																	</div>
 				</div>
 					</div>
-		<div data-thumb="/images/th/2015_th.jpg" data-src="/images/2015.jpg"  data-time="3000">
+		<div data-thumb="/images/th/Germany_th.JPG" data-src="/images/Germany.JPG"  data-time="700">
 							<div class="camera_caption moveFromLeft">
 					<div class="camera_caption_title">
-						系友回娘家											</div>
+						106 德國科大校長參訪											</div>
 					<div class="camera_caption_desc">
-						2015年校慶暨系友回娘家活動											</div>
+																	</div>
 				</div>
 					</div>
-		<div data-thumb="/images/th/1041016PIC_th.png" data-src="/images/1041016PIC.png"  data-time="6000">
+		<div data-thumb="/images/th/20024188_1395333537220384_6910420759217603572_o_th.jpg" data-src="/images/20024188_1395333537220384_6910420759217603572_o.jpg"  data-time="700">
 							<div class="camera_caption moveFromLeft">
 					<div class="camera_caption_title">
-						資工系活動照片											</div>
+						106暑期資工育樂營-英雄資戰											</div>
 					<div class="camera_caption_desc">
-						資工系營隊及參訪照片											</div>
+																	</div>
 				</div>
 					</div>
-		<div data-thumb="/images/th/smile1214_th.png" data-src="/images/smile1214.png"  data-time="4000">
+		<div data-thumb="/images/th/IBMIntership_th.JPG" data-src="/images/IBMIntership.JPG"  data-time="700">
 							<div class="camera_caption moveFromLeft">
 					<div class="camera_caption_title">
-						2015雲科微笑											</div>
+						106 IBM-科技新知演講&實習說明											</div>
 					<div class="camera_caption_desc">
-						2015雲科微笑大合照											</div>
+																	</div>
 				</div>
 					</div>
-		<div data-thumb="/images/th/1041016-PIC_th.png" data-src="/images/1041016-PIC.png"  data-time="6000">
-							<div class="camera_caption moveFromLeft">
-					<div class="camera_caption_title">
-						資工系104年記者會											</div>
-					<div class="camera_caption_desc">
-						資工系104年記者會											</div>
-				</div>
-					</div>
-		<div data-thumb="/images/th/100_th.png" data-src="/images/100.png"  data-time="1000">
-							<div class="camera_caption moveFromLeft">
-					<div class="camera_caption_title">
-						100級畢業學生											</div>
-					<div class="camera_caption_desc">
-						資工系100級畢業學生團體照											</div>
-				</div>
-					</div>
-		<div data-thumb="/images/th/PIC_th.png" data-src="/images/PIC.png"  data-time="4000">
-							<div class="camera_caption moveFromLeft">
-					<div class="camera_caption_title">
-						資工系參訪活動											</div>
-					<div class="camera_caption_desc">
-						資工系/國家高速網路與計算中心中正高工參訪活動											</div>
-				</div>
-					</div>
-		<div data-thumb="/images/th/002_th.png" data-src="/images/002.png"  data-time="500">
-							<div class="camera_caption moveFromLeft">
-					<div class="camera_caption_title">
-						雲科水塔											</div>
-					<div class="camera_caption_desc">
-						斗六最高建築											</div>
-				</div>
-					</div>
-		<div data-thumb="/images/th/101-graduate_th.jpg" data-src="/images/101-graduate.jpg"  data-time="2000">
-							<div class="camera_caption moveFromLeft">
-					<div class="camera_caption_title">
-						101級畢業生團拍											</div>
-					<div class="camera_caption_desc">
-						大學部											</div>
-				</div>
-					</div>
-		<div data-thumb="/images/th/th/DSC00145_th.JPG" data-src="/images/th/DSC00145.JPG"  data-time="7000">
+		<div data-thumb="/images/th/th/DSC00145_th.JPG" data-src="/images/th/DSC00145.JPG"  data-time="700">
 							<div class="camera_caption moveFromLeft">
 					<div class="camera_caption_title">
 						資工系全體教師聚餐											</div>
@@ -270,33 +244,65 @@ jQuery(window).on('load',  function() {
 						期末聚餐											</div>
 				</div>
 					</div>
+		<div data-thumb="/images/th/101-graduate_th.jpg" data-src="/images/101-graduate.jpg"  data-time="700">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						101級畢業生團拍											</div>
+					<div class="camera_caption_desc">
+						大學部											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/2015_th.jpg" data-src="/images/2015.jpg"  data-time="700">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						系友回娘家											</div>
+					<div class="camera_caption_desc">
+						2015年校慶暨系友回娘家活動											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/104_th.jpg" data-src="/images/104.jpg"  data-time="700">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						104學年度實務專題競賽											</div>
+					<div class="camera_caption_desc">
+						104學年度實務專題競賽完滿結束											</div>
+				</div>
+					</div>
+		<div data-thumb="/images/th/1041016-PIC_th.png" data-src="/images/1041016-PIC.png"  data-time="700">
+							<div class="camera_caption moveFromLeft">
+					<div class="camera_caption_title">
+						資工系104年記者會											</div>
+					<div class="camera_caption_desc">
+						資工系104年記者會											</div>
+				</div>
+					</div>
 </div>
 <div style="clear:both;"></div>
 <!-- fin Slideshow CK -->
-		</div>
-	</div>
-</div>
-
-				</div>
-				            </div>                                   
-            			<div id="pathwayFonts" class="clearfix">
-											</div>
-			<div id="wrapper" class="scheme_1">
-            	<div id="main" class="clearfix">
-												
-	                <div id="content"> 
-						                        <div id="maincontent">
+		</div>
+	</div>
+</div>
+
+				</div>
+				            </div>                                   
+            			<div id="pathwayFonts" class="clearfix">
+											</div>
+			<div id="wrapper" class="scheme_1">
+            	<div id="main" class="clearfix">
+												
+	                <div id="content"> 
+						                        <div id="maincontent">
                             <div id="system-message-container">
 	</div>
-
-							<div class="item-page" itemscope itemtype="http://schema.org/Article">
+
+							<div class="item-page" itemscope itemtype="https://schema.org/Article">
 	<meta itemprop="inLanguage" content="zh-TW" />
 	
 		
 						
 	
 	
-		
+				
 								<div itemprop="articleBody">
 		 <div class="attachmentsContainer">
 
@@ -305,181 +311,181 @@ jQuery(window).on('load',  function() {
 </div>	</div>
 
 	
-						</div>
-								
-                        </div>		
-					</div>
-						
-				</div>
-			</div>
-						<div id="bottom"> 	
-				<div id="modules-bottom" class="m2 clearfix" >
-					     
-		             
-											<div class="modules-bottom-in">
-							<div class="djmodule2 " id="Mod115">			
-			<h7 class="title">系務&招生</h7>
-		<div class="module-content2 clearfix">
+							</div>
+								
+                        </div>		
+					</div>
+						
+				</div>
+			</div>
+						<div id="bottom"> 	
+				<div id="modules-bottom" class="m2 clearfix" >
+					     
+		             
+											<div class="modules-bottom-in">
+							<div class="djmodule2 " id="Mod115">			
+			<h7 class="title">系務&招生</h7>
+		<div class="module-content2 clearfix">
 		
 <ul class="smartlatest">
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/496-cpe-eb102" class="smartlatest-title-link">			大學程式能力檢定 (CPE)  考場為EB102            </a>            </div>
-   		<div class="smartlatest-date">2017-09-26</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/882-6-12" class="smartlatest-title-link">			6/12實習行前說明會相關資料電子檔            </a>            </div>
+   		<div class="smartlatest-date">2019-06-21</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/494-10-11-10-26" class="smartlatest-title-link">			雲科大資工系 碩士班甄試入學招生中(10/11-10/26)            </a>            </div>
-   		<div class="smartlatest-date">2017-09-25</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/769-108-107-12-11" class="smartlatest-title-link">			108學年度指導研究生調查表(108.06.05)            </a>            </div>
+   		<div class="smartlatest-date">2018-12-11</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/492-2017-09-22-01-38-48" class="smartlatest-title-link">			【學生急難救助】申請資訊            </a>            </div>
-   		<div class="smartlatest-date">2017-09-22</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/879-1080614" class="smartlatest-title-link">			108學年度四技甄選入學  面試通知暨相關注意事項            </a>            </div>
+   		<div class="smartlatest-date">2019-06-14</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/490-1060921" class="smartlatest-title-link">			【資訊工程系重要公告】給106學年度學生            </a>            </div>
-   		<div class="smartlatest-date">2017-09-21</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/878-2019-06-13-01-43-47" class="smartlatest-title-link">			資工系大學部甄試術科考試範例            </a>            </div>
+   		<div class="smartlatest-date">2019-06-13</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/489-2017-09-20-07-34-00" class="smartlatest-title-link">			實習說明會資訊            </a>            </div>
-   		<div class="smartlatest-date">2017-09-20</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/673-1070619" class="smartlatest-title-link">			107學年度四技甄選入學  面試通知            </a>            </div>
+   		<div class="smartlatest-date">2018-06-19</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/484-2017-11-24-11-25" class="smartlatest-title-link">			2017年資訊工程系實務專題發表訂於11/24-11/25            </a>            </div>
-   		<div class="smartlatest-date">2017-09-19</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/876-2019-06-10" class="smartlatest-title-link">			107-2研究生宿舍離宿暨暑假住宿申請            </a>            </div>
+   		<div class="smartlatest-date">2019-06-10</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/482-1060911" class="smartlatest-title-link">			[重要!]106-1校必修課程            </a>            </div>
-   		<div class="smartlatest-date">2017-09-11</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/868-1080529" class="smartlatest-title-link">			有關修習108-1學期的產業實務實習課程            </a>            </div>
+   		<div class="smartlatest-date">2019-05-29</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/479-106-09-04" class="smartlatest-title-link">			106學年度指導研究生調查表(09/04)            </a>            </div>
-   		<div class="smartlatest-date">2017-09-04</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/867-2019-05-27-06-19-37" class="smartlatest-title-link">			「研究生論文題目暨指導教授提報」公告            </a>            </div>
+   		<div class="smartlatest-date">2019-05-27</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/477-2017-09-04-07-00-12" class="smartlatest-title-link">			歡迎申請英語菁英學程            </a>            </div>
-   		<div class="smartlatest-date">2017-09-04</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/866-0528cpe" class="smartlatest-title-link">			0528CPE考場分配表            </a>            </div>
+   		<div class="smartlatest-date">2019-05-27</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/476-106-11" class="smartlatest-title-link">			106學年度第1學期 - 英(華)語課程相關規定            </a>            </div>
-   		<div class="smartlatest-date">2017-09-04</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29/855-108-2" class="smartlatest-title-link">			108學年度畢業生請繳交專題本及離系手續單            </a>            </div>
+   		<div class="smartlatest-date">2019-05-06</div>    	    			
 	</li>
 	<li  class="smartlatest-more"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-04-40-14/2016-06-13-03-42-29">More news...</a></li>
 </ul>
 <div style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-style:italic; text-align:right; display:block;">By <a href="http://master-comunicacion.es">Master en comunicaci&oacute;n</a></div>
 
-	</div>		
-</div>
-
-						</div>
-		             
-											<div class="modules-bottom-in">
-							<div class="djmodule2 " id="Mod117">			
-			<h7 class="title">演講&競賽&徵才</h7>
-		<div class="module-content2 clearfix">
+	</div>		
+</div>
+
+						</div>
+		             
+											<div class="modules-bottom-in">
+							<div class="djmodule2 " id="Mod117">			
+			<h7 class="title">演講&競賽&徵才</h7>
+		<div class="module-content2 clearfix">
 		
 <ul class="smartlatest">
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/498-10-5" class="smartlatest-title-link">			10/5系微公司實習說明會            </a>            </div>
-   		<div class="smartlatest-date">2017-09-29</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/881-108-3" class="smartlatest-title-link">			【勞動部職業安全衛生署】工業通風局部排氣規劃設計種子師資共識營            </a>            </div>
+   		<div class="smartlatest-date">2019-06-19</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/497-2017-09-28-05-34-01" class="smartlatest-title-link">			網路戰聯隊招募            </a>            </div>
-   		<div class="smartlatest-date">2017-09-28</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/880-1080618" class="smartlatest-title-link">			【桃園市青年事務局】2019 Taoyan EOS Summer School 機器人暑假課程及【聖約翰科技大學】2020第十五界工業機器人競賽            </a>            </div>
+   		<div class="smartlatest-date">2019-06-19</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/495-107" class="smartlatest-title-link">			107年研發替代役            </a>            </div>
-   		<div class="smartlatest-date">2017-09-25</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/877-2019-06-11" class="smartlatest-title-link">			勞動署 自走車競速暨機器人創意大賽、中華科大教師國內產業實務研習及深耕服務計畫、台科光電半導體種子教實務研習營、南台科大車用電子創新發明競賽、健行科大太陽光電模組及系統評估培訓            </a>            </div>
+   		<div class="smartlatest-date">2019-06-11</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/493-2017-09-22-06-46-26" class="smartlatest-title-link">			檢送臺灣師範大學及城巿科技大學來函            </a>            </div>
-   		<div class="smartlatest-date">2017-09-22</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/875-2019-3" class="smartlatest-title-link">			2019全國大專院校產學創意實作競賽            </a>            </div>
+   		<div class="smartlatest-date">2019-06-06</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/491-2017-09-21-05-40-53" class="smartlatest-title-link">			遠傳電信第二屆物聯網應用大賽徵件活動            </a>            </div>
-   		<div class="smartlatest-date">2017-09-21</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/874-2019-06-06-02-20-09" class="smartlatest-title-link">			組隊參加 第四屆全國科技大專校院程式競賽            </a>            </div>
+   		<div class="smartlatest-date">2019-06-06</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/488-106-7" class="smartlatest-title-link">			106學年研究所新生「學術倫理教育」課程通知            </a>            </div>
-   		<div class="smartlatest-date">2017-09-20</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/873-1080604" class="smartlatest-title-link">			人工智慧技術及應用人才培育計畫-實習生招募資訊            </a>            </div>
+   		<div class="smartlatest-date">2019-06-04</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/486-2017-09-20-04-11-40" class="smartlatest-title-link">			檢送東海大學來函            </a>            </div>
-   		<div class="smartlatest-date">2017-09-20</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/871-2019-06-03-07-46-57" class="smartlatest-title-link">			中國工程師學會舉辦工程師大會            </a>            </div>
+   		<div class="smartlatest-date">2019-06-03</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/485-2017-09-20-01-45-48" class="smartlatest-title-link">			華南金控金融科技創新競賽            </a>            </div>
-   		<div class="smartlatest-date">2017-09-20</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/870-2019-05-31-01-36-24" class="smartlatest-title-link">			 台灣精密工程獎章、傑出工程師獎、海洋科技產業教師深度研習、全國大學生工程藝文獎            </a>            </div>
+   		<div class="smartlatest-date">2019-05-31</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/483-106-6" class="smartlatest-title-link">			106學期實習申請-六豐機械公司            </a>            </div>
-   		<div class="smartlatest-date">2017-09-18</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/869-2019-05-31-01-32-28" class="smartlatest-title-link">			遙控無人機於防災之應用，光電所暑期大學生光電營，南亞學報徵稿            </a>            </div>
+   		<div class="smartlatest-date">2019-05-31</div>    	    			
 	</li>
 	<li class="smartlatest-newsli">
     	    	
 		    	<div class="smartlatest-title">
-        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/481-cpe-5" class="smartlatest-title-link">			大學程式能力檢定 (CPE) 日期更新            </a>            </div>
-   		<div class="smartlatest-date">2017-09-11</div>    	    			
+        	<a href="/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30/865-2019-05-24-01-24-59" class="smartlatest-title-link">			第四屆全國科技大專校院程式競賽            </a>            </div>
+   		<div class="smartlatest-date">2019-05-24</div>    	    			
 	</li>
 	<li  class="smartlatest-more"><a href="http://www.csie.yuntech.edu.tw/index.php/2015-04-11-04-40-14/2016-06-13-04-03-30">More news...</a></li>
 </ul>
 <div style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-style:italic; text-align:right; display:block;">By <a href="http://master-comunicacion.es">Master en comunicaci&oacute;n</a></div>
 
-	</div>		
-</div>
-
-						</div>
-		                 	
-				</div>
-			</div> 
- 			 
-			<div id="footer" class="clearfix">
-              <div id="xhtmlCss"><p>
-                <a>64002 雲林縣斗六市大學路3段123號 工程五館一樓(EB115)
-                  <p>電話：05-5342601&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分機：4501, 4502 
-                  <p>傳真：05-5312170
-                </a>
-				</div>
-				<div id="rss"></div>
-			</div>
-			
-		</div>
-	</div>
-</body>
+	</div>		
+</div>
+
+						</div>
+		                 	
+				</div>
+			</div> 
+ 			 
+			<div id="footer" class="clearfix">
+              <div id="xhtmlCss"><p>
+                <a>64002 雲林縣斗六市大學路3段123號 工程五館一樓(EB115)
+                  <p>電話：05-5342601&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分機：4501, 4502 
+                  <p>傳真：05-5312170
+                </a>
+				</div>
+				<div id="rss"></div>
+			</div>
+			
+		</div>
+	</div>
+</body>
 </html>
